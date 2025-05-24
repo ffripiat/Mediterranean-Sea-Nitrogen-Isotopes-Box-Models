@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/a5b50304-27e6-4b1d-bf9d-16b760f6aa5f)
+
+
 Prognostic multi-box (4) model to simulate nitrogen isotope dynamics in the Mediterranean Sea
 
 The model is run on MATLAB.
