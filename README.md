@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a5b50304-27e6-4b1d-bf9d-16b760f6aa5f)
+<a href="https://doi.org/10.5281/zenodo.7574283"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.7574283.svg" alt="DOI"></a>
 
 
 Prognostic multi-box (4) model to simulate nitrogen isotope dynamics in the Mediterranean Sea
